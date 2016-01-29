@@ -14,3 +14,11 @@ numpy
 PyCluster
 pygame
 networkx
+
+Contributors:
+
+Dimitris Nikolaou
+Helma Torkamaan
+Giorgos Komninos
+Alexandr Sapunji
+Stephen Gunashekar
